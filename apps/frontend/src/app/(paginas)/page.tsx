@@ -1,5 +1,4 @@
 import ListaProdutos from "@/components/produto/ListaProdutos";
-import { produtos } from "@/core";
 
 export default function Home() {
   return (
